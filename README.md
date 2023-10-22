@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Conor!
 
-- 👀 I’m interested in Full Stack Software Development, Machine Learning and Computer Graphics. I've recently taken an interest in Game Engine technology and like to study it when I have some free time.
-
-- 🌱 I’m currently learning React.js, Flask/Django and Docker/Kubernetes
-
-- 💞️ I’m looking to collaborate on anything really, I like to help out where I can.
+- 👀 I’m interested in Full Stack Software Development, particularly with React.js, Node.js and Typescript. I've also been developing on AWS for almost 5 years, I'm a big fan of the range of services they provide, and have extensive experience with their serverless offerings.
 
 - 📫 How to reach me ... you can email me at conordunph@gmail.com or via LinkedIn - Conor Dunphy
 
